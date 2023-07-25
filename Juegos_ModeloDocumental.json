@@ -1,0 +1,25 @@
+{
+    "juegos": [
+        {
+            "juego_id": "1",
+            "titulo": "Undertale",
+            "desarrolladores": ["Toby Fox"],
+            "Lanzamiento": "2015-09-15",
+            "generos": ["RPG", "Aventura", "Acción"]
+        },
+        {
+            "juego_id": "2",
+            "titulo": "Night in the Woods",
+            "desarrolladores": ["Infinite Fall", "Secret Lab"],
+            "Lanzamiento": "2017-01-10",
+            "generos": ["Aventura", "Plataformas"]
+        },
+        {
+            "juego_id": "3",
+            "titulo": "Subnautica",
+            "desarrolladores": ["Unknown Worlds Entertainment"],
+            "Lanzamiento": "2018-01-23",
+            "generos": ["Aventura", "Sepervivencia", "Terror"]
+        }
+    ]
+}
